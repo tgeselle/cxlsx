@@ -1,0 +1,9 @@
+name: cxlsx
+version: 0.1.0
+
+authors:
+  - Thomas Geselle <thomas@geselle.fr>
+
+crystal: 0.24.1
+
+license: MIT
